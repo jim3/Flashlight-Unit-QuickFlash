@@ -1,5 +1,3 @@
-
-
 #include <Serial.h>
 
 const int flashlightPin = 9;  // D9 GPIO
@@ -19,5 +17,3 @@ void loop() {
     digitalWrite(flashlightPin, LOW);
     delay(5000);  // Wait for 5000ms
 }
-
-// vIt's a 5V device, so I used a 1K resistor to limit the current to 5mA
