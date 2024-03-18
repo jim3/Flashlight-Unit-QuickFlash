@@ -10,9 +10,9 @@ The communication interface is GPIO. I tested this on the Arduino Uno R4 WiFi an
 M5Stack -> Arduino Uno R4 WiFi
 
 ```
--   5V -> 5V
--   GND -> GND
--   S -> GPIO 9
+5V -> 5V
+GND -> GND
+S -> GPIO 9
 ```
 
 The LED is turned on when pin is `HIGH` and turned off when the GPIO 9 pin is `LOW`.
