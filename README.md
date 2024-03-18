@@ -14,3 +14,4 @@ M5Stack -> Arduino Uno R4 WiFi
 -   S -> GPIO 9
 
 The LED is turned on when pin is `HIGH` and turned off when the GPIO 9 pin is `LOW`.
+
