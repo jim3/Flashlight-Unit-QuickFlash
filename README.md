@@ -18,3 +18,9 @@ This is the *initial* TinyGo "version". I just recently discovered [TinyGo](http
 | S            | GPIO 26    |
 
 ---
+
+### Hardware
+
+-   [ESP32 DevKitM-1](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/hw-reference/esp32/user-guide-devkitm-1.html)
+-   [Flashlight Unit | M5Stack](https://m5stack.com/products/flashlight-unit)
+-   [Jumper Wires (F/M) | DFRobot](https://www.dfrobot.com/product-467.html)
