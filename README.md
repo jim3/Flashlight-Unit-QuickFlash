@@ -6,7 +6,7 @@ The "white LED" really does have that nice "_camera flash effect_", totally wort
 I plan to incorporate it into my current project as an alert for various events. Adding PWM for the varying brightness
 is also a must.
 
-The communication interface is GPIO. I tested this on a `Arduino Uno R4 WiFi` (C++) and a `ESP32 DevKitM-1` (TinyGo).
+The communication interface is GPIO. I tested this on an `Arduino Uno R4 WiFi` (C++) and an `ESP32 DevKitM-1` (TinyGo).
 I used GPIO 9 on the Arduino, GPIO 26 on the ESP32. 
 
 This is the TinyGo "version". I just recently discovered [TinyGo](https://tinygo.org/) and I am extremely excited about it!
